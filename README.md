@@ -13,8 +13,8 @@ curl -H "x-api-key:<get it from senthil>" -H "Content-Type: application/json" -X
 # sample output below.
 
 #######  source code is attached.
-# There is no ec2. The archiecture uses api gateway, lambda and mysql. The python programs were executed from my mac and they are all attched.
-# I connected dbvisualizer to mysql to run any sql command. 
+There is no ec2. The archiecture uses api gateway, lambda and mysql. The python programs were executed from my mac and they are all attched.
+I connected dbvisualizer to mysql to run any sql command. 
 
 ######### Improvments could be done but didn't do for the prototype to save money 
 1. redshift instead of mysql (free tier). 
